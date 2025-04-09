@@ -1,0 +1,14 @@
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\bin\Debug\net8.0\GestorDeTareas.exe
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\bin\Debug\net8.0\GestorDeTareas.deps.json
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\bin\Debug\net8.0\GestorDeTareas.runtimeconfig.json
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\bin\Debug\net8.0\GestorDeTareas.dll
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\bin\Debug\net8.0\GestorDeTareas.pdb
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.AssemblyInfoInputs.cache
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.AssemblyInfo.cs
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.csproj.CoreCompileInputs.cache
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.dll
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\refint\GestorDeTareas.dll
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.pdb
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\GestorDeTareas.genruntimeconfig.cache
+C:\Users\Cristal Barrera\Documents\proyectos Brian\GestorDeTareas\obj\Debug\net8.0\ref\GestorDeTareas.dll
