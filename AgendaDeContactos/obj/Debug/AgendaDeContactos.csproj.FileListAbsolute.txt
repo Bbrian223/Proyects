@@ -1,0 +1,7 @@
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\bin\Debug\AgendaDeContactos.exe.config
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\bin\Debug\AgendaDeContactos.exe
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\bin\Debug\AgendaDeContactos.pdb
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\obj\Debug\AgendaDeContactos.csproj.AssemblyReference.cache
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\obj\Debug\AgendaDeContactos.csproj.CoreCompileInputs.cache
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\obj\Debug\AgendaDeContactos.exe
+C:\Users\Cristal Barrera\Documents\proyectos Brian\Proyects\AgendaDeContactos\obj\Debug\AgendaDeContactos.pdb
